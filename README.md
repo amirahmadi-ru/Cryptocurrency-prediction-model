@@ -1,1 +1,1 @@
-# Cryptocurrency-prediction-model
+# Cryptocurrency prediction model
